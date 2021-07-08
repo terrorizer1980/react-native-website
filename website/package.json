@@ -37,7 +37,7 @@
     }
   },
   "dependencies": {
-    "docusaurus": "1.14.6",
+    "docusaurus": "1.14.7",
     "highlight.js": "^10.1.2",
     "remarkable": "^2.0.1"
   },
